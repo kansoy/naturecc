@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+from src.figures import run_figures
+from src.tables import run_tables
+
+
+def main() -> None:
+    run_tables()
+    run_figures()
+    print("final pipeline complete")
+
+
+if __name__ == "__main__":
+    main()
