@@ -1,0 +1,12 @@
+metric,speeches,minutes
+Total documents,37790,3602
+Institutions,132,26
+Period,1986-2025,1995-2024
+Languages,Predominantly English,14 languages
+Stage 1 documents,4857,500
+Stage 1 excerpts,14700,623
+Stage 2 verified documents,3266,88
+Stage 2 verified excerpts,12582,148
+False positive rate (%),32.8,82.4
+Climate mention rate (%),8.6,2.4
+Institutions with climate content,103,13
