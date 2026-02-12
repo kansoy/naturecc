@@ -12,16 +12,19 @@ This folder is a self-contained replication package for the submitted manuscript
 
 ## Requirements
 
-- Python 3.10+.
+- Python 3.14 (tested).
 - Packages listed in `requirements.txt`.
 - Tested on: macOS (Apple Silicon), Python 3.14.
 - Non-standard hardware: none.
+- Git LFS (required to fetch large raw CSV files from GitHub).
 
 ## Run
 
 From this `final` folder:
 
 ```bash
+git lfs install
+git lfs pull
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
