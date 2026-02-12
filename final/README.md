@@ -17,6 +17,9 @@ This folder is a self-contained replication package for the submitted manuscript
 - Tested on: macOS (Apple Silicon), Python 3.14.
 - Non-standard hardware: none.
 - Git LFS (required to fetch large raw CSV files from GitHub).
+- Large raw files tracked with Git LFS:
+  - `data/raw/speeches_raw.csv`
+  - `data/raw/minutes_raw.csv`
 
 ## Run
 
