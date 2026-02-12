@@ -1,1 +1,2 @@
+# Track large raw files with Git LFS
 data/raw/*.csv filter=lfs diff=lfs merge=lfs -text

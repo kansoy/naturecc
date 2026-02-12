@@ -1,6 +1,7 @@
 # Replication Package: Do Central Banks Take Climate Change Seriously?
 
 This is a self-contained replication package for the submitted manuscript.
+Prepared for replication checks by editors and reviewers.
 
 ## Contents
 
